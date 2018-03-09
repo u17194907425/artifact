@@ -13,7 +13,7 @@ Artifact is a card game based on Dota 2 announced by Valve on Aug-08 2017 with t
 
 **Artifact release date is set to 2018** with no more details yet.
 
-## What do weknow so far
+## What do we know so far
 
 ### Videos
 
