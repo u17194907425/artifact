@@ -25,19 +25,28 @@ The following 2 video clips were captured by gameinformer.com on Mar-08 2018:
 
 ### General
 
+* Uses Source 2 engine.
+* There are 280 cards and 44 heroes.
+
 ### Decks and Cards
 
-Your deck is made of five hero cards as well as ability cards (including summons). The deck is made of 40 cards (apparently there's no limit, and ability cards are shuffled into your deck once you play them). You can have three copies of the same card.
+* Your deck is made of five hero cards as well as ability cards (including summons).
+* The deck is made of 40 cards (apparently there's no limit, and ability cards are shuffled into your deck once you play them).
+* You can have three copies of the same card.
 
-There are four card colors (blue, green, red, and black, like in the teaser).
+There are **four card colors** (blue, green, red, and black, like in the teaser). A deck can be made of two different colors. Unless otherwise specified you can only play an ability of a certain color on a board where you have a hero of that color.
 
-Your deck can be made of two different colors. Unless otherwise specified you can only play an ability of a certain color on a board where you have a hero of that color.
-
-Red is for bruisers, blue for mage and late game, black for assassin and cross-board abilities, green is for support/summons.
+Card colors:
+* Red is for bruisers
+* Blue for mage and late game
+* Black for assassin and cross-board abilities
+* Green is for support/summons.
 
 It’s unclear whether the abilities in your deck are only dependent on color, or if they have to be linked to the heroes you play. We’ve mostly seen abilities of the heroes in play, but it might just have been the way the deck was built for the journalists.
 
-Cards can be of different rarity levels. However *rarity does not correlate with power* (see Gabe's presentation from Mar-08 2018)
+Cards can be of different rarity levels. However per Gabe's presentation from Mar-08 2018
+
+> rarity does not correlate with power
 
 
 
@@ -67,14 +76,6 @@ There’s no single player campaign, but you’ll be able to play against AI.
 Apparently most of the Lore will come in the form of interaction between the cards. New voice lines confirmed.
 
 There will be a "lore viewer" where every hero card will deliver a monologue. There might also be hints in the art.
-
-### The contents
-
-280 cards, 44 heroes.
-
-### The Date
-
-Late 2018 for PC/Mac/Linux, Mid-2019 for mobile (iOS & Android).
 
 ### Win condition
 
