@@ -28,6 +28,7 @@ The following 2 video clips were captured by gameinformer.com on Mar-08 2018:
 * *We are not building a Dota 2 card game. We are building a card game* — Gabe.
 * Artifact uses Source 2 engine.
 * There are 280 cards and 44 heroes.
+* No single player mode.
 
 ### Decks and Cards
 
@@ -55,12 +56,9 @@ Cards can be of different rarity levels. However per Gabe's presentation from Ma
 
 
 
-
-
-
 ### The price
 
-We know it’s not free to play and there will be trading. We know nothing else, and in fact, Valve might not be totally decided yet.
+* 100% not a free2play.
 
 Profits will go into the pro scene like the compendium. There'll also be automated tournaments for all skill levels.
 
