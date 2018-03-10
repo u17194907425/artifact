@@ -1,7 +1,7 @@
 <!--
 
 -->
-Artifact — the Dota Card game
+> Artifact — the Valve's ~~Dota 2~~ card game.
 
 ![Artifact logo](https://i.imgur.com/zt78JQW.png)
 
@@ -25,7 +25,8 @@ The following 2 video clips were captured by gameinformer.com on Mar-08 2018:
 
 ### General
 
-* Uses Source 2 engine.
+* *We are not building a Dota 2 card game. We are building a card game* — Gabe.
+* Artifact uses Source 2 engine.
 * There are 280 cards and 44 heroes.
 
 ### Decks and Cards
