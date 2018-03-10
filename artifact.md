@@ -39,6 +39,7 @@ The following 2 video clips were captured by gameinformer.com on Mar-08 2018:
 There are **four card colors** (blue, green, red, and black, like in the teaser). A deck can be made of two different colors. Unless otherwise specified you can only play an ability of a certain color on a board where you have a hero of that color.
 
 Card colors:
+
 * Red is for bruisers
 * Blue for mage and late game
 * Black for assassin and cross-board abilities
