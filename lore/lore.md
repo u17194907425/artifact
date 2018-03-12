@@ -1,1 +1,1 @@
-Artifact lore to appear here.
+Artifact card game will be sharing lore with Dota 2. It will re-use existing heroes from Dota 2 roster and add new ones. The lore will come mostly in a form of special interactions between cards during the game. New voice lines are also possible (SPECULATION).
