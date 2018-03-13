@@ -1,15 +1,9 @@
-<div>
+Axe: ![Axe](https://i.imgur.com/eXXdmON.jpg){.fl}
   
-  ![Axe](https://i.imgur.com/eXXdmON.jpg){.fl}
+Type: Hero
   
-  <div>
+Color: Red
   
-  Type: Hero
-  
-  Color: Red
-  
-  </div>
-</div>
 
 
 
