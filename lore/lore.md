@@ -1,1 +1,3 @@
-Artifact lore to appear here.
+Artifact card game will be sharing lore with Dota 2. It will re-use existing heroes from Dota 2 roster and add new ones. It is expected that those new heroes will appear in Dota 2 in future. 
+
+It was confirmed that there will no be any single player campaign in Artifact. Lore will come mostly in a form of special interactions between cards during the game. New voice lines are also possible (SPECULATION). 
