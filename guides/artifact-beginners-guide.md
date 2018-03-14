@@ -28,3 +28,7 @@ This section is under construction. Meanwhile you can refer to the following vid
 Game phases (hero deployment, turns on each lane, Gold and shopping phase, heroes and items)
 
 -->
+
+## Decks
+
+## Game Phases
