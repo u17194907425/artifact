@@ -14,6 +14,8 @@ $test_card_format = function($f_name) {
   $content = file_get_contents($f_name);
   static $pattern = "#{{ARTIFACT CARD}}\n(?P<img>.*?)\n---+\n(?P<descr>.*?)\n{{/ARTIFACT CARD}}\n#is";
 
+  $f_name = str_replace(__DIR__, '', $f_name);
+
   if (!preg_match_all($pattern, $content, $matches, PREG_SET_ORDER)) {
     $exit_code = 1;
     print "[ERROR]: card template validation failed in ($f_name)\n";
