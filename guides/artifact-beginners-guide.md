@@ -17,6 +17,25 @@ A player wins a game when either of the two happens:
 * two opponent's towers are destroyed.
 * the opponent's Ancient is destroyed.
 
+## Cards
+
+Since Artifact is a card game, [Cards](https://ggs.wiki/artifact/cards) are the key. They can be of a different color, type and with their unique capabilities.
+
+### Card Colors
+
+There are 4 card colors in Artifact: blue, green, red, and black. Each color represent a specific aspect of the gameplay:
+
+* Red color is for bruisers
+* Blue is for mages and late game
+* Black is for assassins and cross-lane abilities
+* Green is for support/summons.
+
+Cards of only two colors can be used in a game by each player. It is defined during [deck-building](https://ggs.wiki/artifact/guides/deck-building).
+
+### Card Types
+
+<!-- Heroes, Creeps, Spell Cards, Items -->
+
 ## Rules
 
 This section is under construction. Meanwhile you can refer to the following video for the details about Artifact known to date.
@@ -30,5 +49,11 @@ Game phases (hero deployment, turns on each lane, Gold and shopping phase, heroe
 -->
 
 ## Decks
+
+A deck is a cornerstone of success in Artifact. [Deck-building](https://ggs.wiki/artifact/guides/deck-building) is a broad topic to be covered separately. The bottom line is this:
+
+* A deck can be of only 2 colors out of 4 available.
+* A deck must have 5 Hero Cards.
+* A deck should have at least 40 cards total (no upper limit).
 
 ## Game Phases
