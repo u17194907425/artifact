@@ -4,8 +4,11 @@
 
 ---
 
-Type: Hero
-
-Color: Red
+* Type: Hero
+* Color: Red
+* Attack: 7
+* Armor: 2
+* Health: 11
+* Ability: **TBD**
 
 {{/ARTIFACT CARD}}
