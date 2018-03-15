@@ -29,6 +29,18 @@ $test_card_format = function($f_name) {
   }
 
 
+  $card_img_md = $matches[0]['img'];
+  //----------------------------------------------------------------------------
+  // Card Image
+  // https://regex101.com/r/CM2QKy/2
+  static $hero_img_pattern = "~.*\!\[[^\]]+\]\(https://(?P<url>.*)\).*~is";
+
+  if (!preg_match_all($hero_img_pattern, $card_img_md, $matches, PREG_SET_ORDER)) {
+    $exit_code = 1;
+    print "[ERROR]: Card image is not properly formatted in ($f_name)\n";
+    return;
+  }
+
 };
 
 
