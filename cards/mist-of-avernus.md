@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Spell
+* Color: Green
 * Cost: 3
 
 {{/ARTIFACT CARD}}
