@@ -8,7 +8,7 @@
 
 <!-- Card description goes here. -->
 
-* Type: Creep
+* Type: Creature
 * Color: None
 * Attack: 2
 * Defense: 0
