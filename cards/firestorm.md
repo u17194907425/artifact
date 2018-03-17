@@ -20,5 +20,6 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 * Type: Spell
 * Color: Blue
 * Cost: 5
+* Effect: Deal 2 damage to each enemy before the action phase.
 
 {{/ARTIFACT CARD}}
