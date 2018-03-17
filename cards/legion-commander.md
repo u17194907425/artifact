@@ -12,7 +12,7 @@
 * Color: Red
 * Attack: 6
 * Defense: 1
-* Health: 4
+* Health: **TBD**
 
 {{/ARTIFACT CARD}}
 
