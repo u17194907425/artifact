@@ -1,6 +1,15 @@
 # Template for Cards
 
 ```
+<!-- ======================================
+
+How to Contribute: https://ggs.wiki/r/howto
+
+Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.md
+
+====================================== -->
+
+
 {{ARTIFACT CARD}}
 
 <!-- Card image goes here. -->
