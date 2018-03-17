@@ -20,7 +20,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 <!-- Card description goes here. -->
 
-* Type: Hero|Creature
+* Type: Hero|Creature|Item
 * Color: Red|Green|Blue|Black|None
 * Attack: 6
 * Defense: 1
