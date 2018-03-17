@@ -12,7 +12,7 @@
 * Color: Black
 * Attack: 6
 * Defense: 0
-* Health: 5
+* Health: **TBD**
 * Continuous effect: **Efficient Killer** — Phantom Assassin deals +4 damage when attacking a hero.
 
 {{/ARTIFACT CARD}}
