@@ -11,8 +11,8 @@
 
 <!-- Card description goes here. -->
 
-* Type: Hero
-* Color: Red
+* Type: Hero|Creature
+* Color: Red|Green|Blue|Black|None
 * Attack: 6
 * Defense: 1
 * Health: 4
