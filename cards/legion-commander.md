@@ -13,6 +13,7 @@
 * Attack: 6
 * Defense: 1
 * Health: **TBD**
+* Continuous effect: **Moment of Courage** — Retaliate 2.
 
 {{/ARTIFACT CARD}}
 
