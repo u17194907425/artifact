@@ -11,7 +11,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 <!-- Card image goes here. -->
 
-![Horn of the Alpha](https://i.imgur.com/mjipxic.jpg
+![Horn of the Alpha](https://i.imgur.com/mjipxic.jpg)
 
 ---
 
