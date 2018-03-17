@@ -20,6 +20,8 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 * Type: Item
 * Cost: 25
 * Effect: Equipped hero has +4 Health.
-* Active: **Summon Thunderhide Pack** — Summon a [Thunderhide Pack](https://ggs.wiki/artifact/cards/thunderhide-pack). 
+* Active: **Summon Thunderhide Pack** — Summon a Thunderhide Pack. 
 
 {{/ARTIFACT CARD}}
+
+See [Thunderhide Pack](https://ggs.wiki/artifact/cards/thunderhide-pack).
