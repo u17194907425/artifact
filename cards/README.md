@@ -25,6 +25,8 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 * Attack: 6
 * Defense: 1
 * Health: 4
+* Effect: Consumable <!-- For items -->
+* Active: Fully heal a unit. <!-- For items -->
 
 {{/ARTIFACT CARD}}
 ```
