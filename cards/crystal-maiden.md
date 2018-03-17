@@ -10,8 +10,8 @@
 
 * Type: Hero
 * Color: Blue
-* Attack: 6
-* Health: 3
+* Attack: **TBD**
+* Health: **TBD**
 * Passive: **Arcane Aura** — Return 2 mana for every spell cast.
 
 {{/ARTIFACT CARD}}
