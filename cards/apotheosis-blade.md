@@ -18,7 +18,6 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
-* Color: None
 * Cost: 25
 * Effect: Equipped hero has +8 Attack and +4 Siege. Condemn units equipped hero deals battle damage to.
 * Active: **Apotheosize** — Condemn each item equipped by the unit blocking equipped hero. Comndemn enemy improvements. 
