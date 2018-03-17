@@ -13,5 +13,7 @@
 * Attack: 3
 * Defense: 0
 * Health: 7
+* Reactive ability: **Static Field** — Deal 1 piercing damage to Zeus’s enemy neighbors after you play a blue spell.
+
 
 {{/ARTIFACT CARD}}
