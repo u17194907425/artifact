@@ -12,7 +12,7 @@
 * Color: Blue
 * Attack: 3
 * Defense: 0
-* Health: 6
+* Health: **TBD**
 * Reactive ability: **Lucent Beam** — Before the action phase, deal 1 piercing 
 damage to a random enemy and add a charge to each Eclipse card in your hand or deck.
 
