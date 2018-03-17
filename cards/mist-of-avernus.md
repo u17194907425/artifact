@@ -17,6 +17,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 <!-- Card description goes here. -->
 
-* Type: Unknown
+* Type: Spell
+* Cost: 3
 
 {{/ARTIFACT CARD}}
