@@ -11,14 +11,18 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 <!-- Card image goes here. -->
 
-![Emissary of the Quorum](https://i.imgur.com/CaS8c2z.png)
+![Emissary of the Quorum](https://i.imgur.com/hiLHuGU.jpg) <!-- Headline is visible here https://gameworld.vn/wp-content/uploads/M%E1%BB%8CI-TH%E1%BB%A8-b%E1%BA%A1n-c%E1%BA%A7n-bi%E1%BA%BFt-v%E1%BB%81-game-m%E1%BB%9Bi-c%E1%BB%A7a-Valve-ARTIFACT-2.jpg -->
 
 ---
 
 <!-- Card description goes here. -->
 
-* Type: Spell
+* Type: Creature
 * Color: Green
 * Cost: 8
+* Attack: 1
+* Defense: 2
+* Health: 10
+* Active: **Mysterious Benefactor** — Modify allies with +2 attack and +1 health.
 
 {{/ARTIFACT CARD}}
