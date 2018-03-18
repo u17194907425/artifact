@@ -17,3 +17,5 @@
 damage to a random enemy and add a charge to each Eclipse card in your hand or deck.
 
 {{/ARTIFACT CARD}}
+
+See [Eclipse](https://ggs.wiki/artifact/cards/eclipse) card.
