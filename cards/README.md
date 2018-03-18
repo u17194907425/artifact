@@ -14,7 +14,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 <!-- Card image goes here. -->
 
-![Legion Commander](https://i.imgur.com/F4B9gpf.jpg)
+![CARD_NAME](https://i.imgur.com/CaS8c2z.png)
 
 ---
 
