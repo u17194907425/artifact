@@ -11,7 +11,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 <!-- Card image goes here. -->
 
-![Red Mist Maul](https://i.imgur.com/eYOsb6G.jpg)
+![Red Mist Maul](https://i.imgur.com/0uGhNxq.jpg)
 
 ---
 
