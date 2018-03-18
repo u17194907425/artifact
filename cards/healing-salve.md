@@ -11,7 +11,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 <!-- Card image goes here. -->
 
-![Healing Salve](https://i.imgur.com/Rns1ilj.jpg)
+![Healing Salve](https://i.imgur.com/pzf9CiY.jpg)
 
 ---
 
