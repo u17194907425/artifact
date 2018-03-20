@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Creature
+* Color: **Unknown**
 * Attack: 2
 * Defense: 0
 * Health: 3
