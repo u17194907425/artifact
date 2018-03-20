@@ -17,7 +17,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 <!-- Card description goes here. -->
 
-* Item
+* Type: Item
 * Cost: 7
 * Effect: Consumable
 * Active: Get a random item from the Secret Shop.
