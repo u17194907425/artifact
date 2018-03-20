@@ -17,4 +17,7 @@
 
 {{/ARTIFACT CARD}}
 
-Unlike the majority of the initially revealed heroes, Sorla Khan was developed specifically for Artifact. It is expected that she will appear in Dota 2 later ([source](https://www.pcgamesn.com/artifact/artifact-the-dota-card-game-release-date-trailers-gameplay-cards-trading))
+## Information revealed
+
+* Unlike the majority of the initially revealed heroes, Sorla Khan was developed specifically for Artifact. It is expected that she will appear in Dota 2 later (per [pcgamesn.com](https://www.pcgamesn.com/artifact/artifact-the-dota-card-game-release-date-trailers-gameplay-cards-trading))
+* She hails from the same tribe as [Axe](https://ggs.wiki/artifact/cards/axe) (per [ign.com](http://www.ign.com/articles/2018/03/09/valves-artifact-contains-three-new-dota-characters))
