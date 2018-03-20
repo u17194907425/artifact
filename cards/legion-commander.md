@@ -12,10 +12,16 @@
 * Color: Red
 * Attack: 6
 * Defense: 1
-* Health: **TBD**
+* Health: 8
 * Continuous effect: **Moment of Courage** — Retaliate 2.
 
 {{/ARTIFACT CARD}}
+
+Source for stats from [this video](https://www.youtube.com/watch?v=kgfXzegOYFM).
+
+![Stats for Legion Commander](https://i.imgur.com/OpwQga8.png)
+
+
 
 > They came without warning. Within the city walls of Stonehall there came a rumble and a terrible sound, and from blackness unknown came a force of beasts numbering beyond count, wielding flame and foul sorcery, slaying and snatching mothers and sons to dark purpose. Of once-mighty Stonehall's military strength only the Bronze Legion, led by the indomitable Commander Tresdin, was near enough to answer the call of battle. They rode into their city, fighting through bloodstained alleyways and burning markets, cutting their way through the monstrous throng to the source of the sudden invasion: an ethereal rift within the city square, and at its precipice thundered their dreaded champion.
 
