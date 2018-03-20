@@ -21,7 +21,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Hero|Creature|Item|Spell
-* Color: Red|Green|Blue|Black|None
+* Color: Red|Green|Blue|Black|**Unknown**|None
 * Attack: 6
 * Defense: 1
 * Health: 4
