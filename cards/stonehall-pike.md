@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
+* Slot: Weapon
 * Cost: 6
 * Effect: Equipped hero has +2 Attack. Modify Stonehall Pike with "Equipped hero has +1 Attack" after the combat phase.
 

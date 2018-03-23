@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
+* Slot: Health
 * Cost: 6
 * Effect: Equipped hero has +4 Health.
 * Active: **Phase** — Swap equipped hero with another ally. 

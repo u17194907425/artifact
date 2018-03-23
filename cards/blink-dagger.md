@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
+* Slot: Weapon
 * Cost: 7
 * Effect: Equipped hero has +2 Attack.
 * Active: **Blink** — Move equipped hero to another lane. 

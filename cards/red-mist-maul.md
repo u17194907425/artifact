@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
+* Slot: Weapon
 * Cost: 10
 * Effect: Equipped hero has +2 Attack and +5 Siege.
 

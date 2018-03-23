@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
+* Slot: Health
 * Cost: 5
 * Effect: Equipped hero has +4 Health. Modify Stonehall Cloak with "Equipped hero has +2 Health" after the combat phase.
 
