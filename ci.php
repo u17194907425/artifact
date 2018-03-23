@@ -20,6 +20,7 @@ $test_card_format = function($f_name) {
   //----------------------------------------------------------------------------
   // Card Template
   // https://regex101.com/r/Bv7OqT/1
+  /** @noinspection RequiredAttributes */
   static $pattern = "~^{{ARTIFACT CARD}}\n(?P<img>.*?)\n---+\n(?P<descr>.*?)\n{{/ARTIFACT CARD}}$~sm";
   validate_using_regexp('Card template', $content, $pattern, $f_name, $matches, $exit_code);
   $card_img_md = $matches[0]['img'];
@@ -53,6 +54,16 @@ $test_card_format = function($f_name) {
   }
   validate_using_regexp('Card color', $card_descr_md, $card_color_pattern, $f_name, $matches, $exit_code, $expected_matches);
 
+
+  //----------------------------------------------------------------------------
+  // Item Slot
+  // https://regex101.com/r/YtBaBE/1
+  static $item_slot_pattern = "~^\*\s+Slot: (?P<slot>Weapon|Armor|Health|Consumable|\*\*Unknown\*\*)$~m";
+  $expected_matches = 0;
+  if ($card_type == 'Item') {
+    $expected_matches = 1;
+  }
+  validate_using_regexp('Item Slot', $card_descr_md, $item_slot_pattern, $f_name, $matches, $exit_code, $expected_matches);
 
 };
 
