@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
+* Slot: Consumable
 * Cost: 3                    <!-- For items -->
 * Effect: Consumable         <!-- For items -->
 * Active: Heal a Unit 6. <!-- For items -->

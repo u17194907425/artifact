@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
+* Slot: **Unknown**
 * Cost: 22
 * Effect: Each item in your Secret Shop costs X less gold, where X is equal to its base cost.
 

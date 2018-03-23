@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
+* Slot: Armor
 * Cost: 8
 * Effect: Equipped hero has +1 Armor. Equipped hero has +1 Armor for each of its attackers.
 

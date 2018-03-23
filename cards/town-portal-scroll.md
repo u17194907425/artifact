@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
+* Slot: Consumable
 * Cost: 3
 * Effect: Consumable
 * Active: Return an allied Hero to the Fountain. 

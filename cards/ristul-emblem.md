@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
+* Slot: Health
 * Cost: **TBD**
 * Effect: Equipped hero has +4 health and -2 armor. The unit blocking equipped hero has -2 armor. 
 

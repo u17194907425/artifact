@@ -18,6 +18,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 <!-- Card description goes here. -->
 
 * Type: Item
+* Slot: Armor
 * Cost: 19
 * Effect: Equipped hero has +3 Armor and Rapid Deployment. Your tower has +3 Armor. **Rapid Deployment** - If killed, return this hero to play at the the start of the next round.
 
