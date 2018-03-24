@@ -23,3 +23,5 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 * Effect: Deal 2 damage to a unit in any lane.
 
 {{/ARTIFACT CARD}}
+
+[yt:_2_0TTrmmr0]
