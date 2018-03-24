@@ -23,3 +23,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 * Reactive Ability: Deal 2 piercing damage to the enemy tower before the action phase.
 
 {{/ARTIFACT CARD}}
+
+How Trebuchets work
+
+[yt:MIABAqAusjo]
