@@ -20,14 +20,14 @@ During the Action Phase players are using their spell cards, equip item cards on
 
 ### Combat Phase
 
-The Combat Phase is where all the damage is calculated for the cards and towers on a specific lane. If a creature or a hero was destroyed, Gold is earned by a respective player.
+The Combat Phase is where all the damage is calculated for the cards and towers on a specific lane. If a creature or a hero was destroyed, Gold is earned by a respective player. This is where a win condition may be triggered.
 
 ### Win Condition
 
 A player wins a game when either of the two happens:
 
 * two opponent's towers are destroyed.
-* the opponent's Ancient is destroyed.
+* the opponent's Ancient is destroyed. Ancient is exposed in place of a destroyed tower.
 
 ## Cards
 
