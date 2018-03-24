@@ -4,11 +4,23 @@ STUB feel free to contribute.
 
 ![Artifact Game Board](https://i.imgur.com/tsUnqso.jpg)
 
-Artifact is a digital collectible card game for two players developed by [Valve](www.valvesoftware.com).
+Artifact is a digital collectible card game for two players developed by [Valve](https://www.valvesoftware.com). An Artifact match is played on a board with 3 distinct areas (lanes) where players are alternating turns and playing cards from their pre-constructed decks. The goal is to destroy two enemy towers or a tower and an Ancient (details are below).
 
 ## Gameplay
 
-A game of Artifact involves two players with their own decks constructed in advance. Players are alternating turns and using cards from their decks on a board with 3 distinct areas (lanes). On each lane a player has a tower that can be destroyed by the opponent. Once destroyed it is replaced by an Ancient that can be destroyed as well.
+Each match is a repeated set of rounds consisting of multiple phases:
+
+* There are two phases for each of the three lanes — the **Action Phase** and the **Combat Phase**.
+* followed by the **Shopping Phase**.
+* and concluded with the **Hero Deployment Phase** (in case there are heroes to deploy).
+
+### Action phase
+
+During the Action Phase players are using their spell cards, equip item cards on heroes an so on. If a player does not want to use a card, then it passes a turn to their opponent. When both player pass, the Combat Phase happens and the game moves to another lane.
+
+### Combat Phase
+
+The Combat Phase is where all the damage is calculated for the cards and towers on a specific lane. If a creature or a hero was destroyed, Gold is earned by a respective player.
 
 ### Win Condition
 
