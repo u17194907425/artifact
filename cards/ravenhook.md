@@ -11,7 +11,7 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 <!-- Card image goes here. -->
 
-![Ravenhook](https://i.imgur.com/CaS8c2z.png)
+![Ravenhook](https://i.imgur.com/ZzoLmd6.png)
 
 ---
 
