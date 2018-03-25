@@ -25,3 +25,5 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 * Ability: **Repossess** - Condemn a random item equipped by the unit blocking Ravenhook, get gold equal to the base cost of that item.
 
 {{/ARTIFACT CARD}}
+
+Source of the information: [Game Informer Show](https://youtu.be/b2sWgzDAf_E?t=1h2m34s)
