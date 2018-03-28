@@ -1,0 +1,1 @@
+This article will cover updates (patches) to Artifact game including balance changes, adding new [cards](https://ggs.wiki/artifact/cards) or [heroes](https://ggs.wiki/artifact/heroes). If you find any change missed in the official changelog, please feel free to edit or report them using "Report an error" link.
