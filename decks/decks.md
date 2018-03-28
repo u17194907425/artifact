@@ -4,7 +4,7 @@ A deck should have at least 40 cards of only two colors and should have 5 heroes
 
 Since there are 4 different card colors, there are 6 possible types of decks:
  
-1. Red/Black
+1. [Red/Black](https://ggs.wiki/artifact/decks/red-black)
 2. Red/Blue
 3. Red/Green
 4. Black/Blue
