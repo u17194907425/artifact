@@ -23,3 +23,5 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 * Effect: Deal 2 damage to a unit and disarm it this round.
 
 {{/ARTIFACT CARD}}
+
+[yt:-ga3Zkcu_m0]

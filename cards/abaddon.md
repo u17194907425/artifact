@@ -11,17 +11,19 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 <!-- Card image goes here. -->
 
-![Grazing Shot](https://i.imgur.com/5UdCQkD.jpg)
+![Abaddon](https://i.imgur.com/BcFilFa.png)
 
 ---
 
 <!-- Card description goes here. -->
 
-* Type: Spell
-* Color: Black
-* Cost: 1
-* Effect: Deal 2 damage to a unit in any lane.
+* Type: Hero
+* Color: Green
+* Attack: **Unknown**
+* Defense: **Unknown**
+* Health: **Unknown**
+* Ability: **Unknown**
 
 {{/ARTIFACT CARD}}
 
-[yt:_2_0TTrmmr0]
+Source: see cards played log at the following screenshot: https://pbs.twimg.com/media/DX0TYxjVwAEE23E.jpg:large
