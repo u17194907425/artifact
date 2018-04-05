@@ -1,5 +1,5 @@
 <!--
-STUB feel free to contribute..
+STUB feel free to contribute.
 -->
 
 ![Artifact Game Board](https://i.imgur.com/tsUnqso.jpg)
