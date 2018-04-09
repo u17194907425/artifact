@@ -11,21 +11,21 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 
 <!-- Card image goes here. -->
 
-![Day at the Track](https://i.imgur.com/JJ852fp.jpg)
+![Pick Off](https://i.imgur.com/0vJfmmJ.png)
 
 ---
 
 <!-- Card description goes here. -->
 
 * Type: Spell
-* Color: Black
-* Cost: 3
-* Effect: Double your Gold.
+* Color: **Unknown**
+* Cost: **Unknown**
+* Effect: **Unknown**
 
 {{/ARTIFACT CARD}}
 
 ## Card art
 
-![Day at the Track card art](https://i.imgur.com/prim1i2.jpg)
+![Pick Off card art](https://i.imgur.com/h8sM1zO.jpg)
 
-This card art was first revealed by gamespot.com on Mar 28, 2018. See [here](https://www.gamespot.com/gallery/card-art-and-gameplay-screens-for-valves-dota-2-ca/2900-1913/10/).
+This card art was first revealed by gamespot.com on Mar 28, 2018. See [here](https://www.gamespot.com/gallery/card-art-and-gameplay-screens-for-valves-dota-2-ca/2900-1913/11/).
