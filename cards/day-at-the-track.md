@@ -23,3 +23,9 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 * Effect: Double your Gold.
 
 {{/ARTIFACT CARD}}
+
+## Card art
+
+![Day at the Track card art](https://i.imgur.com/prim1i2.jpg)
+
+This card art was first revealed by gamespot.com on Mar 28, 2018. See [here](https://www.gamespot.com/gallery/card-art-and-gameplay-screens-for-valves-dota-2-ca/2900-1913/10/).
