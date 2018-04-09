@@ -40,7 +40,7 @@ There are 4 card colors in Artifact: blue, green, red, and black. Each color rep
 * Red color is for bruisers
 * Blue is for mages and late game
 * Black is for assassins and cross-lane abilities
-* Green is for support/summons.
+* Green is for support and summons.
 
 Cards of only two colors can be used in a game by each player. It is defined during [deck-building](https://ggs.wiki/artifact/guides/deck-building).
 
