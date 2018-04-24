@@ -2,4 +2,4 @@
 
 This is a source for the [Artifact Guides wiki](https://ggs.wiki/artifact).
 
-> Feel free to contribute.
+* [Contributing guidelines](https://github.com/GGS-ORG/artifact/blob/master/CONTRIBUTING.md)
