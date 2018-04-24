@@ -23,3 +23,5 @@ Artifact-specific info: https://github.com/GGS-ORG/artifact/blob/master/README.m
 * Effect: Modify allied creeps with +2 Attack and +1 Armor
 
 {{/ARTIFACT CARD}}
+
+A test update
